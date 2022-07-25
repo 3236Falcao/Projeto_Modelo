@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Modelo.Domain
+namespace Modelo.Infra.CrossCutting
 {
     public class Class1
     {
